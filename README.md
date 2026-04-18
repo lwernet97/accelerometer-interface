@@ -3,6 +3,10 @@
 ## Overview
 Designed and implemented a digital system on an Artix-7 FPGA to interface with an ADXL362 accelerometer using SPI communication. The system retrieves, processes, and displays real-time motion data.
 
+## Note on Provided Code
+Some modules were provided as part of coursework.  
+I integrated, modified, and built additional logic (FSM, datapath, system integration) to complete the full system.
+
 ## Features
 - SPI communication with ADXL362 accelerometer
 - FSM-based control unit for register configuration and data acquisition
